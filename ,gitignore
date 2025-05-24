@@ -1,0 +1,10 @@
+# Ignore Visual Studio temp files and folders
+.vs/
+*.user
+*.suo
+*.log
+*.dbmdl
+*.ldf
+bin/
+obj/
+App_Data/*.ldf
